@@ -13,3 +13,4 @@ We are basically mapping the “micro-credentials” concept to ESCO - creating 
 
 The resulting "mapping" or "correspondence table" indicates for each concept in one classification the corresponding concept(s) in the other classification. To do this we used the SKOS relationships, such as "same as", "broader", or "narrower". Similarly, the Commission tested the mapping of national occupational classifications to ESCO during the ESCO occupations mapping pilot. This fits our purpose, as it makes the case for choosing ESCO, as there is a long term plan for using and updating ESCO.
 
+In order to achieve this, we have created a *public consultation* for a Meta-Data Standard for recording Micro-Credentials, see here https://microcredentials.eu/consultation/.
